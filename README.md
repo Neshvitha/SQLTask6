@@ -1,1 +1,2 @@
 # SQLTask6
+In SQL, a subquery is a query nested inside another query. A scalar subquery returns a single value, often used in the SELECT list. A correlated subquery depends on values from the outer query and runs once for each row. A subquery with IN checks if a value matches any in a list returned by the subquery, while EXISTS returns TRUE if the subquery returns at least one row. A subquery with = returns a single value to match exactly, and a subquery in the FROM clause (derived table) treats the subquery result as a temporary table.
